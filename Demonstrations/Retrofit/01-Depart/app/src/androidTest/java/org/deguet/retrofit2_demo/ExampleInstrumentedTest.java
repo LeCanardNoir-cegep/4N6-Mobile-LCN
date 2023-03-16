@@ -22,7 +22,7 @@ import retrofit2.Response;
  *
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
-@RunWith(AndroidJUnit4.class)
+//@RunWith(AndroidJUnit4.class)
 public class ExampleInstrumentedTest {
     @Test
     public void testSimple() throws IOException {
